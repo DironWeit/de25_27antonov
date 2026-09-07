@@ -12,40 +12,40 @@
       <HBox prefHeight="100.0" prefWidth="200.0">
          <children>
             <Label text="Полное имя" />
-            <TextField fx:id="fname" prefHeight="25.0" prefWidth="309.0" text="Иванов Иван Иванович"/>
+            <TextField fx:id="fname" prefHeight="25.0" prefWidth="309.0" text="Иванов Иван Иванович" />
          </children>
       </HBox>
       <HBox prefHeight="100.0" prefWidth="200.0">
          <children>
             <Label text="Дата рождения" />
-            <TextField fx:id="fbusday" text="06.06.2009"/>
+            <TextField fx:id="fbusday" text="06.06.2009" />
          </children>
       </HBox>
       <HBox prefHeight="100.0" prefWidth="200.0">
          <children>
             <Label text="Электронная пота" />
-            <TextField fx:id="femail" text="afwaw@afw.com"/>
+            <TextField fx:id="femail" text="afwaw@afw.com" />
          </children>
       </HBox>
       <HBox prefHeight="100.0" prefWidth="200.0">
          <children>
             <Label text="Телефон" />
-            <TextField fx:id="fphone" text="89997774455"/>
+            <TextField fx:id="fphone" text="89997774455" />
          </children>
       </HBox>
       <HBox layoutX="30.0" layoutY="207.0" prefHeight="100.0" prefWidth="200.0">
          <children>
             <Label text="ИНН" />
-            <TextField fx:id="sinn" text="12345678562"/>
+            <TextField fx:id="sinn" text="12345678562" />
          </children>
       </HBox>
       <HBox layoutX="30.0" layoutY="218.0" prefHeight="100.0" prefWidth="200.0">
          <children>
             <Label text="Номер паспорта" />
-            <TextField fx:id="fpasport" text="456123"/>
+            <TextField fx:id="fpasport" text="456123" />
          </children>
       </HBox>
-      <HBox layoutX="30.0" layoutY="255.0" prefHeight="100.0" prefWidth="200.0">
+      <HBox layoutX="30.0" layoutY="255.0" prefHeight="101.0" prefWidth="419.0">
          <children>
             <Label fx:id="infoText" />
          </children>
